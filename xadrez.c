@@ -1,5 +1,4 @@
 #include <stdio.h>
-// Confirmação update
 // DEFINIÇÃO DAS FUNÇÕES DE MOVIMENTAÇAO DO BISPO, TORRE E RAINHA
 
 void moverBispo(int passoBispo) { // Movimentação do Bispo 
